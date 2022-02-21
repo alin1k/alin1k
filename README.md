@@ -1,5 +1,5 @@
-Hi, I'm Alin! 👋
-I love coding and sleeping.
+# Hi, I'm Alin! 👋
+I've just started learning FullStack Web Development.
 
-Just getting my feet wet in web dev.
-I am intrested in Full Stack Web Development.
+Feel free to checkout my projects! 
+
