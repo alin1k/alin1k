@@ -1,5 +1,5 @@
 # Hi, I'm Alin! 👋
-I've just started learning FullStack Web Development.
+I'm a FullStack Web Developer.
 
 Feel free to check out my projects!
 
