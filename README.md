@@ -1,6 +1,6 @@
 # Hi, I'm Alin 👋
 
-I am a passionate programmer with intrests in Backend Development, and Emmbeded Systems.
+I am a passionate programmer with interests in Backend Development, and Emmbeded Systems.
 
 Feel free to checkout my projects on Github
 
