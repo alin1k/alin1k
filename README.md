@@ -1,8 +1,8 @@
 # Hi, I'm Alin 👋
 
-I am a passionate programmer with interests in Backend Development, and Emmbeded Systems.
+I am a passionate programmer with interests in Web Development, and Embedded Systems.
 
-Feel free to checkout my projects on Github
+Feel free to check out my projects on Github
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231877F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alin-olteanu/)
