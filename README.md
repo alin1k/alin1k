@@ -10,7 +10,7 @@ Feel free to check out my projects on Github
 
 ## 🧠 Technologies I want to learn in the future
 
-[![My Skills](https://skillicons.dev/icons?i=angular,typescript,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,typescript,tailwindcss,spring)](https://skillicons.dev)
 
 ## ✉ Contact
 You can find me here : 
