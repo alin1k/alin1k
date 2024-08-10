@@ -6,11 +6,11 @@ Feel free to check out my projects on Github
 
 ## 🛠 Technologies I've used
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,arduino,js,jquery,html,css,bootstrap,react,redux,bash,git,postman,nodejs,express,mongo,postgresql,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,arduino,js,ts,jquery,html,css,tailwindcss,bootstrap,react,redux,bash,git,postman,nodejs,express,mongo,postgresql,nextjs)](https://skillicons.dev)
 
 ## 🧠 Technologies I want to learn in the future
 
-[![My Skills](https://skillicons.dev/icons?i=angular,typescript,tailwindcss,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,spring)](https://skillicons.dev)
 
 ## ✉ Contact
 You can find me here : 
