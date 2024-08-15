@@ -1,6 +1,6 @@
 # Hi, I'm Alin 👋
 
-[Portofolio](https://olteanu-alin-portofolio.vercel.app/)
+Check out my [Portofolio](https://olteanu-alin-portofolio.vercel.app/)
 
 I am a passionate programmer with interests in Web Development, and Embedded Systems.
 
