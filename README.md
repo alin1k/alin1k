@@ -8,7 +8,7 @@ Feel free to check out my projects on Github
 
 ## 🛠 Technologies I've used
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,arduino,js,ts,jquery,html,css,tailwindcss,bootstrap,react,nextjs,redux,bash,git,postman,nodejs,express,mongo,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,arduino,js,ts,jquery,html,css,tailwindcss,bootstrap,react,nextjs,redux,git,postman,nodejs,express,mongo,postgresql)](https://skillicons.dev)
 
 ## 🧠 Technologies I want to learn in the future
 
