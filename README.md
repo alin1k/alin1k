@@ -1,23 +1,22 @@
+<div align='center'>
+  <img src='https://streak-stats.demolab.com?user=alin1k&theme=gruvbox-duo&hide_border=true&border_radius=10&background=EB545400&dates=EB5454' height='195' alt='github stats'/>
+</div>
+
+
+
 # Hi, I'm Alin 👋
 
-Check out my [Portofolio](https://olteanu-alin.com)
+- Full Stack Web Developer
+- Electrical Engineering and Computer Science student
+- Currently working on [SocialSpace](https://github.com/alin1k/SocialSpace)
 
-I am a passionate programmer with interests in Web Development, and Embedded Systems.
-
-Feel free to check out my projects on Github
-
-## 🛠 Technologies I've used
+## 🛠 Technologies I've used 
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,arduino,js,ts,jquery,html,css,tailwindcss,bootstrap,react,nextjs,redux,git,postman,nodejs,express,mongo,postgresql)](https://skillicons.dev)
 
-## 🧠 Technologies I want to learn in the future
+## 🧠 Technologies I want to learn in the future 
 
 [![My Skills](https://skillicons.dev/icons?i=angular,spring)](https://skillicons.dev)
-
-## ✉ Contact
-You can find me here : 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231877F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alin-olteanu/)
 
 
 
